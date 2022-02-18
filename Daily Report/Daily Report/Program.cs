@@ -19,6 +19,14 @@ namespace Daily_Report
             Console.WriteLine("You are on page " + page);
             Console.WriteLine("Do you need help with anything? Please answer “true” or “false.”");
             bool needsHelp = true;
+            if (needsHelp)
+            {
+                Console.WriteLine("Someone will be able to help you shortly!");
+            }
+            else
+            {
+                Console.WriteLine("Glad to hear it!");
+            }
             Console.WriteLine(needsHelp);
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
             string exp = Console.ReadLine();
