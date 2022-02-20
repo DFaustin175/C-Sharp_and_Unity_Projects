@@ -1,0 +1,7 @@
+C:\Users\deefa\Desktop\Repositories\Shipping Quote\Shipping Quote\bin\Debug\Shipping Quote.exe.config
+C:\Users\deefa\Desktop\Repositories\Shipping Quote\Shipping Quote\bin\Debug\Shipping Quote.exe
+C:\Users\deefa\Desktop\Repositories\Shipping Quote\Shipping Quote\bin\Debug\Shipping Quote.pdb
+C:\Users\deefa\Desktop\Repositories\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.csproj.AssemblyReference.cache
+C:\Users\deefa\Desktop\Repositories\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.csproj.CoreCompileInputs.cache
+C:\Users\deefa\Desktop\Repositories\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.exe
+C:\Users\deefa\Desktop\Repositories\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.pdb
