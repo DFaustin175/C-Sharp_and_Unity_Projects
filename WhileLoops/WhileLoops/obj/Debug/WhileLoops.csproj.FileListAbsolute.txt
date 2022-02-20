@@ -1,0 +1,7 @@
+C:\Users\deefa\Desktop\Repositories\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+C:\Users\deefa\Desktop\Repositories\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+C:\Users\deefa\Desktop\Repositories\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+C:\Users\deefa\Desktop\Repositories\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.AssemblyReference.cache
+C:\Users\deefa\Desktop\Repositories\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\deefa\Desktop\Repositories\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+C:\Users\deefa\Desktop\Repositories\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb
