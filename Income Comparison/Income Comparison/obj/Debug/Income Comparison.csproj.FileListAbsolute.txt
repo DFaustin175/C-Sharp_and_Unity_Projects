@@ -1,0 +1,7 @@
+C:\Users\deefa\source\repos\Income Comparison\Income Comparison\bin\Debug\Income Comparison.exe.config
+C:\Users\deefa\source\repos\Income Comparison\Income Comparison\bin\Debug\Income Comparison.exe
+C:\Users\deefa\source\repos\Income Comparison\Income Comparison\bin\Debug\Income Comparison.pdb
+C:\Users\deefa\source\repos\Income Comparison\Income Comparison\obj\Debug\Income Comparison.csproj.AssemblyReference.cache
+C:\Users\deefa\source\repos\Income Comparison\Income Comparison\obj\Debug\Income Comparison.csproj.CoreCompileInputs.cache
+C:\Users\deefa\source\repos\Income Comparison\Income Comparison\obj\Debug\Income Comparison.exe
+C:\Users\deefa\source\repos\Income Comparison\Income Comparison\obj\Debug\Income Comparison.pdb
