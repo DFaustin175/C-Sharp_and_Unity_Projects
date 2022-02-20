@@ -18,8 +18,9 @@ namespace Daily_Report
             int page = Convert.ToInt16(pageNum);
             Console.WriteLine("You are on page " + page);
             Console.WriteLine("Do you need help with anything? Please answer “true” or “false.”");
-            bool needsHelp = true;
-            if (needsHelp)
+            string needsHelp = Console.ReadLine();
+            bool helpPlease = System.Convert.ToBoolean(needsHelp);
+            if (helpPlease)
             {
                 Console.WriteLine("Someone will be able to help you shortly!");
             }
@@ -27,7 +28,6 @@ namespace Daily_Report
             {
                 Console.WriteLine("Glad to hear it!");
             }
-            Console.WriteLine(needsHelp);
             Console.WriteLine("Were there any positive experiences you’d like to share? Please give specifics.");
             string exp = Console.ReadLine();
             Console.WriteLine("Is there any other feedback you’d like to provide? Please be specific.");
