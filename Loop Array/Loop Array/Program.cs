@@ -14,6 +14,7 @@ namespace Loop_Array
             string userInput = Console.ReadLine();
             for (int i = 0; i < stringArray.Length; i++)
             {
+                Console.WriteLine(stringArray[i]);
                 Console.WriteLine(stringArray[i] + userInput);
             }
             Console.ReadLine();
@@ -58,17 +59,20 @@ namespace Loop_Array
             stringList.Add("Brad");
             Console.WriteLine("Input name: ");
             string nameInput = Console.ReadLine();
-            int l = 0;
-            while (nameInput != stringList[l])
+            for( int i = 0; i < stringList.Count; i++)
             {
-                ++l;
-                Console.WriteLine(stringList[l]);
-                if (l == 6)
+                Console.WriteLine(stringList[i]);
+                if(stringList[i] == nameInput)
+                {
+                    Console.WriteLine(i);
+                    break;    
+                }
+                else if(i == 6)
                 {
                     Console.WriteLine("Name not found");
-                    break;
                 }
             }
+            Console.ReadLine();
 
             List<string> stringList2 = new List<string>();
             stringList2.Add("Tom");
@@ -79,26 +83,39 @@ namespace Loop_Array
             stringList2.Add("Brad");
             Console.WriteLine("Input name: ");
             string nameInput2 = Console.ReadLine();
-            int z = 0;
-            while (nameInput2 != stringList2[z])
+            for(int i = 0; i < stringList2.Count; i++)
             {
-                ++z;
-                if (z == 6)
+                if (stringList2[i] == nameInput2)
+                {
+                    Console.Write(stringList2[i]);
+                }
+                else if (i == stringList2.Count)
                 {
                     Console.WriteLine("Name not found");
-                    break;
-                }
-                else if (nameInput2 == stringList2[z])
-                {
-                    Console.WriteLine(stringList2[z]);
                 }
             }
+            Console.ReadLine();
 
             var names = new List<string>() { "John", "Tom", "Peter", "John", "Tom", "Peter" };
+            int john = 0, tom = 0, peter = 0;
             foreach (string name in names)
             {
-                Console.WriteLine(name);
+                if (name == "John")
+                {
+                    john++;
+                }
+                else if (name == "Tom")
+                {
+                    tom++;
+                }
+                else if (name == "Peter")
+                {
+                    peter++;
+                }
             }
+            Console.WriteLine("Number of Johns = {0}", john);
+            Console.WriteLine("Number of Toms = {0}", tom);
+            Console.WriteLine("Number of Peter = {0}", peter);
             Console.ReadLine();
 
         }
