@@ -10,12 +10,16 @@ namespace Loop_Array
     {
         static void Main()
         {
+            Console.WriteLine("Enter a name:");
             string[] stringArray = { "Hello ", "How are you ", "Have a nice day " };
             string userInput = Console.ReadLine();
             for (int i = 0; i < stringArray.Length; i++)
             {
-                Console.WriteLine(stringArray[i]);
                 Console.WriteLine(stringArray[i] + userInput);
+            }
+            foreach (string str in stringArray)
+            {
+                Console.WriteLine(str);
             }
             Console.ReadLine();
             Console.WriteLine("Execute infinite loop?");
@@ -87,7 +91,7 @@ namespace Loop_Array
             {
                 if (stringList2[i] == nameInput2)
                 {
-                    Console.Write(stringList2[i]);
+                    Console.Write(i);
                 }
                 else if (i == stringList2.Count)
                 {
