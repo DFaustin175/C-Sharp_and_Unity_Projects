@@ -22,7 +22,6 @@ namespace Main_Method_Calling
             string userInput3 = Console.ReadLine();
             Class1.Sub(userInput3);
             Console.ReadLine();
-
         }
     }
 }

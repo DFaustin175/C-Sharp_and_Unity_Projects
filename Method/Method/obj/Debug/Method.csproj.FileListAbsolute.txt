@@ -1,0 +1,8 @@
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Method\Method\bin\Debug\Method.exe.config
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Method\Method\bin\Debug\Method.exe
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Method\Method\bin\Debug\Method.pdb
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Method\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Method\Method\obj\Debug\Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Method\Method\obj\Debug\Method.exe
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Method\Method\obj\Debug\Method.pdb
