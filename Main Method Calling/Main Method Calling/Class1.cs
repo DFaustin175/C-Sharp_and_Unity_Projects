@@ -8,22 +8,23 @@ namespace Main_Method_Calling
 {
     internal class Class1
     {
+        public static int a1;
+        public static int b1;
+        public static int c1;
         public static void Add(int a)
         {
-            int a1 = a + 1;
-            Console.WriteLine(a1);
+            a1 = a + 1;
         }
 
-        public static void Div(float b)
+        public static void Div(decimal b)
         {
-            int b1 = Convert.ToInt32(b) / 2;
-            Console.WriteLine(b1);
+            b1 = Convert.ToInt32(b) / 2;
+
         }
 
         public static void Sub(string c)
         {
-            int c1 = Convert.ToInt32(c) - 5;
-            Console.WriteLine(c1);
+            c1 = Convert.ToInt32(c) - 5;
         }
     }
 }

@@ -13,14 +13,17 @@ namespace Main_Method_Calling
             Console.WriteLine("Enter an Integer");
             int userInput = Convert.ToInt32(Console.ReadLine());
             Class1.Add(userInput);
+            Console.WriteLine(Class1.a1);
             Console.ReadLine();
             Console.WriteLine("Enter another integer");
-            float userInput2 = float.Parse(Console.ReadLine());
+            decimal userInput2 = Convert.ToDecimal(Console.ReadLine());
             Class1.Div(userInput2);
+            Console.WriteLine(Class1.b1);
             Console.ReadLine();
             Console.WriteLine("Enter one more integer");
             string userInput3 = Console.ReadLine();
             Class1.Sub(userInput3);
+            Console.WriteLine(Class1.c1);
             Console.ReadLine();
         }
     }

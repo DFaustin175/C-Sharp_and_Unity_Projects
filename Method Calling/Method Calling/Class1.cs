@@ -11,19 +11,16 @@ namespace Method_Calling
         public static void Add(int x)
         {
             int A = x + 100;
-            Console.WriteLine(A);
         }
 
         public static void Mult(int z)
         {
             int B = z * 100;
-            Console.WriteLine(B);
         }
 
         public static void Sub(int c)
         {
             int C = 100 - c;
-            Console.WriteLine(C);
         }
     }
 }
