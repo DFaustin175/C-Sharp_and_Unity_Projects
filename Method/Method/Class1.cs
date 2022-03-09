@@ -10,12 +10,12 @@ namespace Method
     {
         public static void DoubleInt(string a, string b)
         {
-            if(b == Console.ReadLine())
+            if(b == "")
             {
                 int a1 = Convert.ToInt32(a) + 15;
                 Console.WriteLine(a1);
             }
-            else if (b != null)
+            else
             {
                 int a1 = Convert.ToInt32(a) + Convert.ToInt32(b);
                 Console.WriteLine(a1);
