@@ -17,6 +17,8 @@ namespace Abstract_Class
             employee.LastName = Console.ReadLine();
             employee.SayName();
             Console.ReadLine();
+            employee.Quit();
+            Console.ReadLine();
         }
     }
 }
