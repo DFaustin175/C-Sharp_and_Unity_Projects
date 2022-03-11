@@ -8,7 +8,7 @@ namespace Abstract_Class
 {
     internal class Employee : Person, IQuittable
     {
-        public void SayName()
+        public override void SayName()
         {
             string FullName = FirstName + " " + LastName;
             Console.WriteLine("Name:" + FullName);

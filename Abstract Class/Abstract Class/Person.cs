@@ -11,10 +11,6 @@ namespace Abstract_Class
         public string FirstName;
         public string LastName;
 
-        public void SayName()
-        {
-            string FullName = FirstName + " " + LastName;
-            Console.WriteLine("Name:" + FullName);
-        }
+        public abstract void SayName();
     }
 }

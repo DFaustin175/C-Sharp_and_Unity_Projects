@@ -10,6 +10,7 @@ namespace Main_Method_Calling
     {
         static void Main()
         {
+            Class1 Class1 = new Class1();
             Console.WriteLine("Enter an Integer");
             int userInput = Convert.ToInt32(Console.ReadLine());
             int result1 = Class1.Add(userInput);
