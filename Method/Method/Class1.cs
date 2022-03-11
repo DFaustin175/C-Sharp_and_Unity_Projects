@@ -8,18 +8,10 @@ namespace Method
 {
     internal class Class1
     {
-        public static void DoubleInt(string a, string b)
+        public static int DoubleInt(int a, int b = 15)
         {
-            if(b == "")
-            {
-                int a1 = Convert.ToInt32(a) + 15;
-                Console.WriteLine(a1);
-            }
-            else
-            {
-                int a1 = Convert.ToInt32(a) + Convert.ToInt32(b);
-                Console.WriteLine(a1);
-            }
+            int result = a + b;
+            return result;
         }
     }
 }
