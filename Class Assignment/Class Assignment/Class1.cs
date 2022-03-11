@@ -31,4 +31,9 @@ namespace Class_Assignment
             return sum;
         }
     }
+
+    internal static class Class2
+    {
+
+    }
 }

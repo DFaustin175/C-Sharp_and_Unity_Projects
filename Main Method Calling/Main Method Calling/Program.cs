@@ -12,18 +12,22 @@ namespace Main_Method_Calling
         {
             Console.WriteLine("Enter an Integer");
             int userInput = Convert.ToInt32(Console.ReadLine());
-            Class1.Add(userInput);
-            Console.WriteLine(Class1.a1);
+            int result1 = Class1.Add(userInput);
+            Console.WriteLine(result1);
             Console.ReadLine();
+
+            
             Console.WriteLine("Enter another integer");
             decimal userInput2 = Convert.ToDecimal(Console.ReadLine());
-            Class1.Div(userInput2);
-            Console.WriteLine(Class1.b1);
+            int result2 = Class1.Div(userInput2);
+            Console.WriteLine(result2);
             Console.ReadLine();
+
+
             Console.WriteLine("Enter one more integer");
             string userInput3 = Console.ReadLine();
-            Class1.Sub(userInput3);
-            Console.WriteLine(Class1.c1);
+            int result3 = Class1.Sub(userInput3);
+            Console.WriteLine(result3);
             Console.ReadLine();
         }
     }
