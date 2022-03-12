@@ -12,9 +12,8 @@ namespace Methods_and_Objects
         {
             Employee employee = new Employee();
             Console.WriteLine("Please input First and Last Name");
-            employee.FirstName = Console.ReadLine();
-            employee.LastName = Console.ReadLine();
-
+            employee.FirstName = "Sample";
+            employee.LastName = "Student";
             employee.SayName();
             Console.ReadLine();
 
