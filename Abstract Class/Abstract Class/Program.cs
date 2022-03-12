@@ -11,11 +11,12 @@ namespace Abstract_Class
         static void Main()
         {
             Employee employee = new Employee();
+            IQuittable quittable = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
             employee.SayName();
             Console.ReadLine();
-            employee.Quit();
+            quittable.Quit();
             Console.ReadLine();
         }
     }
