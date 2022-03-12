@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Abstract_Class
 {
-    internal interface IQuittable
+    public interface IQuittable
     {
         void Quit();
     }

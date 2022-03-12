@@ -14,7 +14,7 @@ namespace Abstract_Class
             Console.WriteLine("Name:" + FullName);
         }
 
-        public void Quit()
+        public override void Quit()
         {
             Console.WriteLine("Quit");
         }
