@@ -11,10 +11,8 @@ namespace Abstract_Class
         static void Main()
         {
             Employee employee = new Employee();
-            Console.WriteLine("Enter first name");
-            employee.FirstName = Console.ReadLine();
-            Console.WriteLine("Enter last name");
-            employee.LastName = Console.ReadLine();
+            employee.FirstName = "Sample";
+            employee.LastName = "Student";
             employee.SayName();
             Console.ReadLine();
             employee.Quit();
