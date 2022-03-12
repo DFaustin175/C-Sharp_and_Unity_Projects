@@ -10,25 +10,22 @@ namespace Main_Method_Calling
     {
         static void Main()
         {
-            Class1 Class1 = new Class1();
+            Class1 mathProbs = new Class1();
             Console.WriteLine("Enter an Integer");
             int userInput = Convert.ToInt32(Console.ReadLine());
-            int result1 = Class1.Add(userInput);
-            Console.WriteLine(result1);
+            Console.WriteLine(mathProbs.Add(userInput));
             Console.ReadLine();
 
             
-            Console.WriteLine("Enter another integer");
+            Console.WriteLine("Enter a decimal number");
             decimal userInput2 = Convert.ToDecimal(Console.ReadLine());
-            int result2 = Class1.Div(userInput2);
-            Console.WriteLine(result2);
+            Console.WriteLine(mathProbs.Div(userInput2));
             Console.ReadLine();
 
 
             Console.WriteLine("Enter one more integer");
             string userInput3 = Console.ReadLine();
-            int result3 = Class1.Sub(userInput3);
-            Console.WriteLine(result3);
+            Console.WriteLine(mathProbs.Sub(userInput3));
             Console.ReadLine();
         }
     }
