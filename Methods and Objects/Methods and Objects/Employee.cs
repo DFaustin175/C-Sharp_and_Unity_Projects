@@ -12,7 +12,7 @@ namespace Methods_and_Objects
 
         public int Length { get; internal set; }
 
-        public void things(T input) { }
+        public List<T> things;
         
 
        public static bool operator==(Employee<T> employee, Employee<T> employee2)
