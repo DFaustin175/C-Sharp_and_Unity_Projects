@@ -1,0 +1,8 @@
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Enums\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Enums\Enums\obj\Debug\Enums.csproj.SuggestedBindingRedirects.cache
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Enums\Enums\obj\Debug\Enums.pdb
