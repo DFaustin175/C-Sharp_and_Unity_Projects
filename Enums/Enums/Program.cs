@@ -21,7 +21,6 @@ namespace Enums
             {
                 Console.WriteLine("Please enter a real day of the week", ex);
                 Console.ReadLine();
-                return;
             }
 
         }

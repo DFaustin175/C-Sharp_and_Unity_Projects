@@ -1,0 +1,8 @@
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Lambda\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Lambda\Lambda\bin\Debug\Lambda.exe
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Lambda\Lambda\bin\Debug\Lambda.pdb
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Lambda\Lambda\obj\Debug\Lambda.csproj.SuggestedBindingRedirects.cache
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Lambda\Lambda\obj\Debug\Lambda.exe
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\Lambda\Lambda\obj\Debug\Lambda.pdb
