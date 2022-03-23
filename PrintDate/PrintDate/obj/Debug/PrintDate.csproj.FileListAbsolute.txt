@@ -1,0 +1,8 @@
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\PrintDate\PrintDate\bin\Debug\PrintDate.exe.config
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\PrintDate\PrintDate\bin\Debug\PrintDate.exe
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\PrintDate\PrintDate\bin\Debug\PrintDate.pdb
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\PrintDate\PrintDate\obj\Debug\PrintDate.csproj.AssemblyReference.cache
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\PrintDate\PrintDate\obj\Debug\PrintDate.csproj.SuggestedBindingRedirects.cache
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\PrintDate\PrintDate\obj\Debug\PrintDate.csproj.CoreCompileInputs.cache
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\PrintDate\PrintDate\obj\Debug\PrintDate.exe
+C:\Users\deefa\Desktop\Repositories\C-Sharp_and_Unity_Projects\PrintDate\PrintDate\obj\Debug\PrintDate.pdb
